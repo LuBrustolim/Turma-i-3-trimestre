@@ -1,0 +1,26 @@
+//body {
+	height: 300vh;
+}
+
+.primeira {
+	width: 400px;
+	height: 400px;
+	background-color: purple;
+	margin-top: 25px;
+	margin-left: 25px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+}
+
+.segunda {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	margin-top: 25px;
+	margin-left: 25p;
+	position: fixed;
+	top: 50%;
+    left: 50%;
+
+}
